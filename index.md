@@ -146,5 +146,4 @@ function restart(){
   document.getElementById("tile_4").innerHTML = '<div class="player enemy" nam>&#9818;</div>';
   
 }
-
 </script>
